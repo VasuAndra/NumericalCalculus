@@ -1,3 +1,3 @@
 # NumericalCalculus
 
-Numerical Calculus Class in Matlab
+Numerical Calculus Class using Matlab
